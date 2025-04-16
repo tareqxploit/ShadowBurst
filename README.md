@@ -9,7 +9,7 @@ ShadowBurst is a Python-based Directory Brute Forcer that uses multithreading to
 Clone the ShadowBurst project to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/ShadowBurst.git
+https://github.com/tareqxploit/ShadowBurst.git
 ```
 2 . Navigate into the project directory:
 
